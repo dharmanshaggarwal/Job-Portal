@@ -15,4 +15,5 @@ Login Details :
 Username : admin
 Password : admin
 
-NOTE : Available job titles : UI , Java , DevOps , DBA.
+NOTE : 
+1. Available job titles : UI , Java , DevOps , DBA.

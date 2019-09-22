@@ -17,3 +17,4 @@ Password : admin
 
 NOTE : 
 1. Available job titles : UI , Java , DevOps , DBA.
+2. Tables can be sorted.

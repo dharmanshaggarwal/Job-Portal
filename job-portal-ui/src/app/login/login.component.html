@@ -1,0 +1,48 @@
+<div class="container-fluid">
+  <h2 class="text-center mt-3">AZ Consultancy</h2>
+  <form
+    class="loginBox col-8"
+    #loginForm
+    name="loginForm"
+    (ngSubmit)="onSubmit(username.value, password.value)"
+    validate
+  >
+    <div class="form-group row">
+      <label for="username" class="col-1 offset-3 mr-2">Username</label>
+      <div class="col-5">
+        <input
+          autofocus
+          autocomplete="false"
+          name="username"
+          type="text"
+          class="form-control"
+          id="username"
+          #username
+          required
+        />
+      </div>
+    </div>
+
+    <div class="form-group row">
+      <label for="password" class="col-1 offset-3 mr-2">Password</label>
+      <div class="col-5">
+        <input
+          name="password"
+          type="password"
+          class="form-control"
+          id="password"
+          #password
+          required
+        />
+      </div>
+    </div>
+    <div class="text-center">
+      <button type="submit" class="btn btn-success form-group">
+        Login
+      </button>
+    </div>
+  </form>
+  <div *ngIf="error" class="alert alert-danger col-2 centering text-center">
+    {{ errorMsg }}
+  </div>
+</div>

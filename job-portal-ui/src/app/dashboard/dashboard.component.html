@@ -1,0 +1,39 @@
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-6 text-left pull-left">
+      AZ Consultancy
+    </div>
+    <div class="col-6 text-right pull-right">
+      <label>Consultant : </label>&nbsp;Venki
+      <button class="btn btn-primary" (click)="logout()">Logout</button>
+    </div>
+  </div>
+  <hr />
+  <form>
+    <div class="form-row">
+      <div class="form-check form-check-inline">
+        <mat-checkbox value="open" name="open" [(ngModel)]="open" (change)="statusCheck($event)" color="primary">Open
+        </mat-checkbox>
+      </div>
+      <div class="form-check form-check-inline">
+        <mat-checkbox value="closed" name="closed" [(ngModel)]="closed" (change)="statusCheck($event)" color="primary">
+          Closed</mat-checkbox>
+      </div>
+      <div class="offset-2 form-check form-check-inline">
+        <span>Title</span>
+      </div>
+      <div class="col-3">
+        <input #job name="jobTitle" type="text" [ngModel]="jobTitle" class="form-control" placeholder="Enter here..." />
+      </div>
+      <div class="col">
+        <button class="btn btn-primary" type="button" (click)="searchJob(job.value)">
+          Search
+        </button>
+      </div>
+    </div>
+  </form>
+  <hr />
+</div>
+
+<app-job-posts [hidden]="!displayResult" [searchJob]="jobTitle" [jobStatus]="status"></app-job-posts>
+<!-- <router-outlet></router-outlet> -->

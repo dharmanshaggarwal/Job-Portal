@@ -1,0 +1,331 @@
+{
+    "interview": [{
+            "candidateID": "201",
+            "interviewDetails": [{
+                "jobID": "101",
+                "details": [{
+                        "interview": "Telephonic",
+                        "interviewer": "Shiv",
+                        "date": "1569555000000",
+                        "result": "Cleared"
+                    },
+                    {
+                        "interview": "Technical",
+                        "interviewer": "Deepak",
+                        "date": "1569931200000",
+                        "result": "Cleared"
+                    },
+                    {
+                        "interview": "HR",
+                        "interviewer": "Nandini",
+                        "date": "1569931200000",
+                        "result": "On Hold"
+                    }
+                ]
+            }]
+        },
+        {
+            "candidateID": "202",
+            "interviewDetails": [{
+                "jobID": "102",
+                "details": [{
+                        "interview": "Telephonic",
+                        "interviewer": "Prakash",
+                        "date": "1569555000000",
+                        "result": "Cleared"
+                    },
+                    {
+                        "interview": "Technical",
+                        "interviewer": "Dheeraj",
+                        "date": "1569672000000",
+                        "result": "Rejected"
+                    }
+                ]
+            }]
+        },
+        {
+            "candidateID": "203",
+            "interviewDetails": [{
+                "jobID": "103",
+                "details": [{
+                        "interview": "Telephonic",
+                        "interviewer": "Mayur",
+                        "date": "1569844800000",
+                        "result": "Cleared"
+                    },
+                    {
+                        "interview": "Technical",
+                        "interviewer": "Deepa",
+                        "date": "1570104000000",
+                        "result": "Rejected"
+                    }
+                ]
+            }]
+        },
+        {
+            "candidateID": "204",
+            "interviewDetails": [{
+                    "jobID": "107",
+                    "details": [{
+                            "interview": "Telephonic",
+                            "interviewer": "Anita",
+                            "date": "1569834000000",
+                            "result": "Cleared"
+                        },
+                        {
+                            "interview": "Technical",
+                            "interviewer": "Vachan",
+                            "date": "1569859200000",
+                            "result": "Cleared"
+                        },
+                        {
+                            "interview": "HR",
+                            "interviewer": "Vivek",
+                            "date": "1569859200000",
+                            "result": "Offered"
+                        }
+                    ]
+                },
+                {
+                    "jobID": "109",
+                    "details": [{
+                            "interview": "Telephonic",
+                            "interviewer": "Sankar",
+                            "date": "1569859200000",
+                            "result": "Cleared"
+                        },
+                        {
+                            "interview": "Technical",
+                            "interviewer": "Ranjan",
+                            "date": "1569945600000",
+                            "result": "Cleared"
+                        },
+                        {
+                            "interview": "HR",
+                            "interviewer": "Priyanka",
+                            "date": "1569949200000",
+                            "result": "Offered"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "candidateID": "205",
+            "interviewDetails": [{
+                    "jobID": "101",
+                    "details": [{
+                            "interview": "Telephonic",
+                            "interviewer": "Dev",
+                            "date": "1569920400000",
+                            "result": "Cleared"
+                        },
+                        {
+                            "interview": "Technical",
+                            "interviewer": "Vachan",
+                            "date": "1570006800000",
+                            "result": "Cleared"
+                        },
+                        {
+                            "interview": "HR",
+                            "interviewer": "Rahul",
+                            "date": "1570006800000",
+                            "result": "Offered"
+                        }
+                    ]
+                },
+                {
+                    "jobID": "110",
+                    "details": [{
+                            "interview": "Telephonic",
+                            "interviewer": "Sankar",
+                            "date": "1570093200000",
+                            "result": "Cleared"
+                        },
+                        {
+                            "interview": "Technical",
+                            "interviewer": "Santosh",
+                            "date": "1570269600000",
+                            "result": "Cleared"
+                        },
+                        {
+                            "interview": "HR",
+                            "interviewer": "Jasmine",
+                            "date": "1570273200000",
+                            "result": "On Hold"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "candidateID": "206",
+            "interviewDetails": [{
+                "jobID": "101",
+                "details": [{
+                        "interview": "Telephonic",
+                        "interviewer": "Krupa",
+                        "date": "1570273200000",
+                        "result": "Cleared"
+                    },
+                    {
+                        "interview": "Technical",
+                        "interviewer": "Samyui",
+                        "date": "1570359600000",
+                        "result": "Cleared"
+                    },
+                    {
+                        "interview": "HR",
+                        "interviewer": "Deepak",
+                        "date": "1570330800000",
+                        "result": "Offered"
+                    }
+                ]
+            }]
+        },
+        {
+            "candidateID": "207",
+            "interviewDetails": [{
+                "jobID": "101",
+                "details": [{
+                    "interview": "Telephonic",
+                    "interviewer": "Chandrani",
+                    "date": "1570330800000",
+                    "result": "Rejected"
+                }]
+            }]
+        },
+        {
+            "candidateID": "208",
+            "interviewDetails": [{
+                    "jobID": "104",
+                    "details": [{
+                            "interview": "Telephonic",
+                            "interviewer": "Ann",
+                            "date": "1569672000000",
+                            "result": "Cleared"
+                        },
+                        {
+                            "interview": "Technical",
+                            "interviewer": "Vivek",
+                            "date": "1569844800000",
+                            "result": "Cleared"
+                        },
+                        {
+                            "interview": "HR",
+                            "interviewer": "Sam",
+                            "date": "1569844800000",
+                            "result": "On hold"
+                        }
+                    ]
+                },
+                {
+                    "jobID": "108",
+                    "details": [{
+                            "interview": "Telephonic",
+                            "interviewer": "Joyce",
+                            "date": "1570417200000",
+                            "result": "Cleared"
+                        },
+                        {
+                            "interview": "Technical",
+                            "interviewer": "Mathew",
+                            "date": "1570503600000",
+                            "result": "Cleared"
+                        },
+                        {
+                            "interview": "HR",
+                            "interviewer": "Guru",
+                            "date": "1570507200000",
+                            "result": "Offered"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "candidateID": "209",
+            "interviewDetails": [{
+                    "jobID": "110",
+                    "details": [{
+                            "interview": "Telephonic",
+                            "interviewer": "Nireeksha",
+                            "date": "1570507200000",
+                            "result": "Cleared"
+                        },
+                        {
+                            "interview": "Technical",
+                            "interviewer": "Madhura",
+                            "date": "1570615200000",
+                            "result": "Rejected"
+                        }
+                    ]
+                },
+                {
+                    "jobID": "107",
+                    "details": [{
+                            "interview": "Telephonic",
+                            "interviewer": "James",
+                            "date": "1570615200000",
+                            "result": "Cleared"
+                        },
+                        {
+                            "interview": "Technical",
+                            "interviewer": "Satwik",
+                            "date": "1570701600000",
+                            "result": "Cleared"
+                        },
+                        {
+                            "interview": "HR",
+                            "interviewer": "Yogi",
+                            "date": "1570705200000",
+                            "result": "On hold"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "candidateID": "210",
+            "interviewDetails": [{
+                    "jobID": "105",
+                    "details": [{
+                            "interview": "Telephonic",
+                            "interviewer": "Srishti",
+                            "date": "1570705200000",
+                            "result": "Cleared"
+                        },
+                        {
+                            "interview": "Technical",
+                            "interviewer": "Raman",
+                            "date": "1570791600000",
+                            "result": "Rejected"
+                        }
+                    ]
+                },
+                {
+                    "jobID": "110",
+                    "details": [{
+                            "interview": "Telephonic",
+                            "interviewer": "Kavita",
+                            "date": "1570791600000",
+                            "result": "Cleared"
+                        },
+                        {
+                            "interview": "Technical",
+                            "interviewer": "Rahul",
+                            "date": "1570878000000",
+                            "result": "Cleared"
+                        },
+                        {
+                            "interview": "HR",
+                            "interviewer": "Jovita",
+                            "date": "1570881600000",
+                            "result": "Offered"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

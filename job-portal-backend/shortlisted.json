@@ -1,0 +1,109 @@
+{
+    "shortListed": [
+        {
+            "candidateID": 201,
+            "name": "Apoorv",
+            "worksAt": "NTT",
+            "experience": 3,
+            "ctc": "5.5L",
+            "jobID": [
+                101
+            ]
+        },
+        {
+            "candidateID": 202,
+            "name": "Supriya",
+            "worksAt": "Infosys",
+            "experience": 4,
+            "ctc": "8L",
+            "jobID": [
+                102
+            ]
+        },
+        {
+            "candidateID": 203,
+            "name": "Preetham",
+            "worksAt": "HP",
+            "experience": 7,
+            "ctc": "13L",
+            "jobID": [
+                103
+            ]
+        },
+        {
+            "candidateID": 204,
+            "name": "Nitin",
+            "worksAt": "Deloite",
+            "experience": 3,
+            "ctc": "13L",
+            "jobID": [
+                107,
+                109
+            ]
+        },
+        {
+            "candidateID": 205,
+            "name": "Sushobitha",
+            "worksAt": "Harman",
+            "experience": 4.5,
+            "ctc": "13L",
+            "jobID": [
+                101,
+                110
+            ]
+        },
+        {
+            "candidateID": 206,
+            "name": "Sameer",
+            "worksAt": "HP",
+            "experience": 3,
+            "ctc": "13L",
+            "jobID": [
+                101
+            ]
+        },
+        {
+            "candidateID": 207,
+            "name": "Meghna",
+            "worksAt": "Informatica",
+            "experience": 7,
+            "ctc": "13L",
+            "jobID": [
+                101
+            ]
+        },
+        {
+            "candidateID": 208,
+            "name": "Sai",
+            "worksAt": "HP",
+            "experience": 2,
+            "ctc": "13L",
+            "jobID": [
+                104,
+                108
+            ]
+        },
+        {
+            "candidateID": 209,
+            "name": "Akash",
+            "worksAt": "Infosys",
+            "experience": 8,
+            "ctc": "13L",
+            "jobID": [
+                110,
+                107
+            ]
+        },
+        {
+            "candidateID": 210,
+            "name": "Archana",
+            "worksAt": "TechM",
+            "experience": 6.5,
+            "ctc": "13L",
+            "jobID": [
+                105,
+                110
+            ]
+        }
+    ]
+}

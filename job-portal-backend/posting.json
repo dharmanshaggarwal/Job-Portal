@@ -1,0 +1,74 @@
+{
+    "posting": [
+        {
+            "jobID": 101,
+            "company": "Infosys",
+            "title": "UI",
+            "postedOn": "1567222200000",
+            "status": "Open"
+        },
+        {
+            "jobID": 102,
+            "company": "Sapients",
+            "title": "DevOps",
+            "postedOn": "1562470200000",
+            "status": "Open"
+        },
+        {
+            "jobID": 103,
+            "company": "HP",
+            "title": "UI",
+            "postedOn": "1557804600000",
+            "status": "Closed"
+        },
+        {
+            "jobID": 104,
+            "company": "Deloitte",
+            "title": "DevOps",
+            "postedOn": "1559442622000",
+            "status": "Open"
+        },
+        {
+            "jobID": 105,
+            "company": "Harman",
+            "title": "UI",
+            "postedOn": "1566622855000",
+            "status": "Closed"
+        },
+        {
+            "jobID": 106,
+            "company": "Accenture",
+            "title": "DBA",
+            "postedOn": "1562211022000",
+            "status": "Open"
+        },
+        {
+            "jobID": 107,
+            "company": "Powerschool",
+            "title": "Java",
+            "postedOn": "1549510222000",
+            "status": "Closed"
+        },
+        {
+            "jobID": 108,
+            "company": "Adobe",
+            "title": "DevOps",
+            "postedOn": "1558341022000",
+            "status": "Open"
+        },
+        {
+            "jobID": 109,
+            "company": "Edgeverve",
+            "title": "DBA",
+            "postedOn": "1568525422000",
+            "status": "Open"
+        },
+        {
+            "jobID": 110,
+            "company": "Verifone",
+            "title": "Java",
+            "postedOn": "1562844622000",
+            "status": "Open"
+        }
+    ]
+}
